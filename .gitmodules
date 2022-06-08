@@ -1,0 +1,3 @@
+[submodule "external_as_sl"]
+	path = external_as_sl
+	url = https://github.com/biergarten/mvp.git
